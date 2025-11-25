@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meekidsclub
 - 👀 I’m interested in kids STEAM education
-- 📫 How to reach me by email to cheang@meekids.club
+- 📫 How to reach me by email to cheang@edcookies.com
 
 <!---
 meekidsclub/meekidsclub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
